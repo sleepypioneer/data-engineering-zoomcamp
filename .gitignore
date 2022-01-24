@@ -9,3 +9,5 @@
 **logs/
 **.env
 **__pycache__/
+
+*.csv
